@@ -49,12 +49,3 @@ This application demonstrates the use of OAuth2 with Spring Security. You can te
 
 - [Spring Boot](https://spring.io/projects/spring-boot) - The framework used
 - [Maven](https://maven.apache.org/) - Dependency Management
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://github.com/your-username/spring-security-oauth2-demo/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-Remember to replace your-username with your actual GitHub username in the URLs.
